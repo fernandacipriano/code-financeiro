@@ -63,7 +63,7 @@
                                         <a href="{{ env('URL_ADMIN_LOGOUT') }}"
                                             onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
-                                            Logout
+                                            Logout -
                                         </a>
 
                                         <form id="logout-form" action="{{ env('URL_ADMIN_LOGOUT') }}" method="POST" style="display: none;">
