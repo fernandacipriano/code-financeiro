@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 
 @section('content')
-    Fernandinha linda você é fera Fezinha
+    Fernandinha teste
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">

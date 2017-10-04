@@ -79,7 +79,7 @@
 
         @yield('content')
     </div>
-teste
+teste teste teste
     <!-- Scripts -->
     <script src="{{asset('build/admin.bundle.js')}}"></script>
 </body>
